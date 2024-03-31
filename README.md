@@ -1,8 +1,3 @@
-# ericjeffrey.github.io
-
-好记性不如烂笔头。
-
------
 
 ## 博客列表
 
